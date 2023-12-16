@@ -42,7 +42,7 @@ body {
   flex-direction: column;
   padding: 20px;
   box-shadow: -1px 3px 19px 1px rgb(140, 105, 145);
-  /* overflow-y: hidden; */
+  overflow: auto;
 }
 
 p {
